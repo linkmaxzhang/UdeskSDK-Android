@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UdeskSDK-Android:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UdeskSDK_Android_jar</output-path>
+    <root id="archive" name="UdeskSDK-Android.jar">
+      <element id="module-output" name="UdeskSDK-Android" />
+    </root>
+  </artifact>
+</component>
